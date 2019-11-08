@@ -9,6 +9,9 @@ const Header = styled.div`
   background: #90bdbf;
   padding-top: 5%;
   padding-bottom: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-radius: 5px;
 `
 
 const HeaderTitle = styled.h1`

@@ -9,6 +9,7 @@ const CharacterTitle = styled.h5`
   color: #75b0b2;	
 
 `
+
 const CharacterCard = props => {
     return (
       <Col xs="12" s="6" md="4">
